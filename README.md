@@ -61,3 +61,12 @@ En base a este análisis, podemos extraer una serie de conclusiones sobre la fun
 - **Ausencia de un calendario de eventos**: Una forma muy visual de mostrar los eventos disponibles es mediante un calendario que indique qué eventos se producen en qué días del mes. Podría ser una buena alternativa a mostrar simplemente el tradicional listado de eventos.
 - **Ausencia de una sección de eventos**: Permitir a los usuarios comentar en las publicaciones de los eventos ayudaría tanto a los usuarios para saber qué eventos son más recomendables como a los organizadores para obtener feedback sobre el evento.
 - **Ausencia de un widget meteorológico**: Un widget del tiempo podría ser de mucha utilidad para un usuario a la hora de elegir una fecha u otra para ir a un evento, ya que nadie desea que el mal tiempo estropee sus planes y se le ahorraría el esfuerzo al usuario de tener que obtener esa información meteorológica de una fuente externa.
+
+### Persona
+
+Para apreciar un posible ejemplo de uso de la web de Yuzin, emplearemos a una persona de nombre Alexander. Alexander es un profesor joven que disfruta estando rodeado de cultura y que comienza a buscar eventos culturales a los que asistir en verano. Para la realización de esta persona se ha utilizado el [toolkit](https://github.com/mgea/UX-DIU-Toolkit) proporcionado por los profesores de la asignatura.
+
+![Alexander persona](./persona.png)
+
+### Journey Map
+
