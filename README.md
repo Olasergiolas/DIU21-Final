@@ -68,5 +68,13 @@ Para apreciar un posible ejemplo de uso de la web de Yuzin, emplearemos a una pe
 
 ![Alexander persona](./persona.png)
 
-### Journey Map
+#### Escenario de uso
+
+Alexander desea informarse sobre las novedades en eventos culturales y sobre qué se va a realizar este verano, así que busca en google "Revista eventos culturales Sevilla" y llega a la web de Yuzin. Lo primero que siente al acceder es una sensación de dejadez al ver el banner principal de la web con el texto completamente desencajado y las imágenes que acompañan a los artículos de opinión también descolocadas, además de sentirse un poco mareado con el movimiento constante de dicho banner. Leyendo la web identifica el texto de "Descargar Revista" y accede a esta sección. Una vez dentro, observa que se le ofrecen opciones de la revista para Granada, Sevilla y Málaga. A Alexander al ver esto, le entra la curiosidad sobre qué eventos culturales habría en su Málaga natal así que intenta acceder a esta revista pero sin éxito, ya que el icono correspondiente no hace nada al pulsarlo así que Alexander se rinde y descarga algo molesto, la revista de Sevilla para percatarse de que la "revista mensual" de Sevilla lleva sin ser actualizada desde Noviembre de 2020. Alexander ya un tanto enfadado termina recurriendo entonces a consultar los eventos desde la sección de "Agenda Cultural", donde si consigue su objetivo.
+
+#### Conclusión
+
+La web presenta problemas en elementos principales de esta como en el banner animado de la página principal o el listado de artículos de opinión de esta página. También cabe destacar como lo que antes era el elemento principal de la web, la revista, ahora da la impresión de abandono al presentar opciones que ni siquiera están disponibles además de no actualizar las revistas.
+
+### Usability Review
 
