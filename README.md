@@ -32,8 +32,32 @@ Otro ejemplo de uso práctico del conocimiento obtenido fuera de la asignatura d
 
 ## Parte 2: Caso de estudio. Web YUZIN
 
+**Caso de estudio**: En la elaboración del caso de estudio final INDIVIDUAL tiene como objetivo evaluar tu capacidad de aplicación de las técnicas y metodologías de diseño centrado en usuario y UX a un caso real: el (re)diseño de la web para una empresas de divulgación de eventos culturales (donde partimos de un diseño ya existente) de Yuzin.
 
+**Antecedentes**: Yuzin ha sido desde hace muchos años una revista (en formato físico) que promociona las actividades culturales de la ciudad que se editaba mes a mes. Apareció sobre 2003 la web https://yuzin.com que permitía descargar la revista en formato digital (versión de eventos de Granada y de Sevilla), [aquí](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANADA-junio-2021.pdf) podéis ver la versión digital de este mes. A partir del 2019/20 se pasó a una versión más completa denominada yuzin club cultural.
+ En este cambio se ha hecho un rediseño y orientación de la web en la que la revista digital se queda en segundo plano.
 
+### Introducción
 
+Aunque la web de Yuzin ha pasado por un rediseño bastante reciente, una serie de problemas de usabilidad saltan a la vista al acceder a esta. Es por ello, que realizaremos un proceso de rediseño partiendo del diseño actual para tener en cuenta tanto los puntos fuertes como los débiles de la web, valorando durante el proceso el rediseño que esta sufrió.
 
-Este es el trabajo final de la asignatura de Diseño de Interfaces de Usuario del Grado de Ingeniería Informática de la UGR.
+Para esto, aplicaremos técnicas de UX Desk Research, análisis y UX Design previamente al rediseño de la web.
+
+### Análisis de la competencia
+
+Al igual que Yuzin, existen también otras webs dedicadas a la promoción de eventos culturales como ***La Revista de la Palma*** o ***El Giraldillo***. Utilizaremos estas dos webs para realizar un análisis competitivo que nos permita ver las funcionalidades que ofrecen unas y otras y tal vez descubrir así otras funcionalidades que la web de Yuzin podría implementar.
+
+- **Yuzin**: Como se ha mencionado anteriormente, se trata de un club cultural que busca promover eventos y espacios culturales de la ciudad de Granada y Sevilla, permitiendo la compra de tickets para estos eventos dentro de la propia web y distribuyendo mensualmente una revista gratuita con toda la información cultural. Además, también busca ser un altavoz donde los miembros de la comunidad puedan escribir artículos de opinión culturales.
+- **La Revista de la Palma**: Se trata de una revista de ocio y cultura destinada exclusivamente a la Palma de Gran Canaria. Al igual que la web de Yuzin, ofrecen un listado de eventos de ocio y cultura además de noticias de interés general de la ciudad. En este caso, no disponen de una revista como tal, sino que la web en sí es considerada la revista cultural.
+- **El Giraldillo**: Se trata de una web de eventos de ocio y cultura destinada a Andalucía en general pero con algo más de hincapié en la provincia de Sevilla. Además del usual listado de eventos clasificado por tipos, dispone también de un blog con artículos de opinión y noticias, además de la posibilidad de comprar tickets dentro de la web como en Yuzin.
+
+A continuación podemos observar los resultados del análisis competitivo:
+
+![competitive analysis](./competitiveAnalysis.png)
+
+En base a este análisis, podemos extraer una serie de conclusiones sobre la funcionalidad que se podría esperar en una web de este estilo para ayudarnos a considerar mejoras para la web de Yuzin. En primer lugar, vemos como la funcionalidad más básica que toda web de eventos debería de tener como el listado de eventos, el filtrado, la compra de tickets, etc. están presentes en la web de Yuzin. Es cuando hablamos de funcionalidad más opcional orientada a mejorar la experiencia de usuario que esta web muestra algunas deficiencias en comparación con sus competidores como:
+
+- **Ausencia de una sección para noticias culturales**: Es comprensible suponer que alguien interesado en asistir a eventos culturales y de ocio, también podría estar interesado en recibir información sobre las últimas noticias culturales.
+- **Ausencia de un calendario de eventos**: Una forma muy visual de mostrar los eventos disponibles es mediante un calendario que indique qué eventos se producen en qué días del mes. Podría ser una buena alternativa a mostrar simplemente el tradicional listado de eventos.
+- **Ausencia de una sección de eventos**: Permitir a los usuarios comentar en las publicaciones de los eventos ayudaría tanto a los usuarios para saber qué eventos son más recomendables como a los organizadores para obtener feedback sobre el evento.
+- **Ausencia de un widget meteorológico**: Un widget del tiempo podría ser de mucha utilidad para un usuario a la hora de elegir una fecha u otra para ir a un evento, ya que nadie desea que el mal tiempo estropee sus planes y se le ahorraría el esfuerzo al usuario de tener que obtener esa información meteorológica de una fuente externa.
