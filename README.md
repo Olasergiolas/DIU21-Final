@@ -1,6 +1,6 @@
 # Trabajo Final DIU21
 
-### Sergio García Cabrera :wave:
+### Autor: Sergio García Cabrera :wave:
 
 
 
@@ -25,6 +25,8 @@ Pasando a las prácticas de la asignatura, gracias a estas he podido experimenta
 Por último, querría comentar algunas ocasiones para las que la aplicación de estos conocimientos me ha sido de gran utilidad en otras asignaturas, como por ejemplo para la realización del diseño de mi proyecto de web de promoción de eventos para la asignatura de Sistemas de Información Basados en Web, donde antes de comenzar con el diseño de mi web, realicé un simple wireframe para tener una idea de como estructurar el contenido de esta, lo cual me ayudó con la organización y a acelerar el proceso de diseño.
 
 ![wireframe web](./wireframe.png)
+
+![final web](./web-final.png)
 
 Otro ejemplo de uso práctico del conocimiento obtenido fuera de la asignatura de DIU fue el uso de las guidelines de "Material Design" de Google para la realización de una app móvil en flutter con temática Covid para la asignatura de Desarrollo Software, consiguiendo así, todas las ventajas que han sido mencionadas anteriormente con respecto al uso de guidelines de diseño.
 
