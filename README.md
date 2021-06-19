@@ -63,7 +63,7 @@ En base a este análisis, podemos extraer una serie de conclusiones sobre la fun
 
 - **Ausencia de una sección para noticias culturales**: Es comprensible suponer que alguien interesado en asistir a eventos culturales y de ocio, también podría estar interesado en recibir información sobre las últimas noticias culturales.
 - **Ausencia de un calendario de eventos**: Una forma muy visual de mostrar los eventos disponibles es mediante un calendario que indique qué eventos se producen en qué días del mes. Podría ser una buena alternativa a mostrar simplemente el tradicional listado de eventos.
-- **Ausencia de una sección de eventos**: Permitir a los usuarios comentar en las publicaciones de los eventos ayudaría tanto a los usuarios para saber qué eventos son más recomendables como a los organizadores para obtener feedback sobre el evento.
+- **Ausencia de una sección de comentarios**: Permitir a los usuarios comentar en las publicaciones de los eventos ayudaría tanto a los usuarios para saber qué eventos son más recomendables como a los organizadores para obtener feedback sobre el evento.
 - **Ausencia de un widget meteorológico**: Un widget del tiempo podría ser de mucha utilidad para un usuario a la hora de elegir una fecha u otra para ir a un evento, ya que nadie desea que el mal tiempo estropee sus planes y se le ahorraría el esfuerzo al usuario de tener que obtener esa información meteorológica de una fuente externa.
 
 ### Persona
