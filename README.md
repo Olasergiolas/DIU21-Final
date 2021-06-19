@@ -124,3 +124,22 @@ Estos wireframe han sido realizados con Adobe Xd y extensiones como Quick Mockup
 
 #### Guidelines de diseño
 
+##### Tipografía
+
+El diseño utilizará la tipografía Noto Sans en sus distintas variantes (Bold, Semibold, Regular e Italic). Esta tipografía diseñada por Google resulta una candidata ideal gracias a su gran estandarización además de la simplicidad, modernismo y minimalismo que caracteriza a las tipografías Sans-serif.
+
+![noto-sans](./noto-sans.png)
+
+La fuente será utilizada de la siguiente manera:
+
+- Título1: 40pt Bold.
+- Título2: 30pt SemiBold.
+- Título3: 25pt SemiBold.
+- Texto normal: 16pt Regular.
+
+##### Paleta de Colores
+
+A la hora de elegir una nueva paleta de colores, se han tenido en cuenta los colores que ya están siendo usados en el diseño actual como son el amarillo, negro, blanco y azul. El objetivo es respetar la imagen actual de la marca pero mejorando los contrastes presentes en la web. Es por ello que se evitará utilizar colores amarillos sobre fondo blanco para en su lugar, utilizar un fondo negro o gris oscuro. La paleta ha sido generada con la herramienta de [coolors.co](https://coolors.co).
+
+![paleta de colores](./colores.png)
+
