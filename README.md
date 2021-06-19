@@ -78,3 +78,23 @@ La web presenta problemas en elementos principales de esta como en el banner ani
 
 ### Usability Review
 
+Se ha realizado un Usability Review siguiendo la [plantilla](http://www.uxforthemasses.com/usability-reviews/) proporcionada por los profesores de la asignatura y UX for the Masses, donde Yuzin ha conseguido una puntuación de 57 puntos sobre 100. Puede acceder al Usability review desde [aquí](./usability-review.pdf). Analizando estos resultados podemos deducir qué aspectos es necesario mejorar del diseño actual y cuales deberíamos de mantener para el rediseño.
+
+La web de Yuzin ha destacado positivamente en aspectos como:
+
+- El menú de navegación y sus elementos es fácil de encontrar, intuitivo y consistente, aunque podría hacérsele algunos cambios visuales para mejorar el contraste y el aspecto.
+- El usuario puede volver siempre a la página de inicio fácilmente desde el lago.
+- El lenguaje, la terminología y el tono son apropiados y fácilmente comprensibles para el Target de usuario.
+- La ayuda en línea es concisa y fácil de entender.
+
+Por desgracia, la web destaca negativamente en un gran número de aspectos con más peso:
+
+- No se aporta ayuda con respecto al uso y la navegación de la web, solo ayuda de carácter general.
+- No se muestra la ubicación actual en la web de ninguna forma más allá de la url.
+- No hay un mapa del sitio.
+- La barra de búsqueda para texto no funciona.
+- No hay una sección de comentarios.
+- Las acciones en la web no suelen presentar feedback.
+- No se utilizan los campos de entrada apropiados para formularios, solo se utilizan campos de texto y listados de opciones predefinidas.
+- Problemas de responsive design: El menú de navegación desaparece completamente sin ofrecer otra alternativa si el ancho de la ventana se reduce hasta un punto.
+
