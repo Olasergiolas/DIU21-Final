@@ -143,3 +143,9 @@ A la hora de elegir una nueva paleta de colores, se han tenido en cuenta los col
 
 ![paleta de colores](./colores.png)
 
+##### Logotipo
+
+Se ha diseñado un nuevo logotipo que busca dar una imagen más moderna y actual que el que está siendo utilizado actualmente. Para generarlo se ha utilizado la herramienta de generación de logos de [Looka](https://looka.com).
+
+![nuevo logo](./logo.png)
+
