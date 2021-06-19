@@ -98,3 +98,15 @@ Por desgracia, la web destaca negativamente en un gran número de aspectos con m
 - No se utilizan los campos de entrada apropiados para formularios, solo se utilizan campos de texto y listados de opciones predefinidas.
 - Problemas de responsive design: El menú de navegación desaparece completamente sin ofrecer otra alternativa si el ancho de la ventana se reduce hasta un punto.
 
+### Rediseño UX
+
+#### Propuesta de valor
+
+Con este rediseño buscaremos solventar los problemas que han sido mencionados anteriormente, centrándonos principalmente en dar una mejor imagen de la web (y por tanto, de la empresa) atajando fallos visuales considerables que presenta la página, descartando contrastes pobres como el de amarillo sobre blanco, mejorando el proceso de búsqueda de eventos, añadiendo una sección de comentarios y haciendo la web responsive usando frameworks como Bootstrap para que la experiencia en cualquier tipo de dispositivo sea correcta.
+
+#### Sitemap
+
+Antes de comenzar a diseñar los wireframe para la web, comenzaremos realizando el sitemap que se utilizará para organizar el contenido. Con este sitemap buscamos organizar la información de manera más comprensible para el usuario (dando más prioridad a los eventos destacados por ejemplo) además de añadir secciones para nuevas funcionalidades como la de comentarios.
+
+![sitemap nuevo](./sitemap.png)
+
