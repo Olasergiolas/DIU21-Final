@@ -10,7 +10,11 @@ Durante esta asignatura, he obtenido una serie de conocimientos gracias a la rea
 
  También he realizado un análisis de usabilidad web que me ha permitido aprender una serie de pautas y aspectos a tener en cuenta como el wayfinding o el responsive design para calificar la usabilidad de un sitio web de forma heurística, y gracias a la realización de un análisis de accesibilidad he podido no solo aprender sobre las pautas WCAG sino que también ser algo más empático hacia los usuarios que presentan algún tipo de discapacidad, aprendiendo algo más sobre como puede ser su experiencia de navegación web y las dificultades a las que se enfrentan en el proceso gracias al uso de diversas extensiones del navegador como NoCoffee Visión Simulator. En definitiva, estos tres análisis me han descubierto la importancia de realizar diseños centrados en el usuario, ya que hasta el momento, solo tenía en cuenta mi percepción y entendimiento de los diseños que realizaba.
 
-Pasando a las prácticas de la asignatura, gracias a estas he podido experimentar en primera persona como es realmente el proceso de diseño de un producto, de forma similar a como se realizó con el ejemplo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). Durante el proyecto de prácticas se han realizado multitud de tareas, de las cuales yo destacaría:
+Pasando a las prácticas de la asignatura, gracias a estas he podido experimentar en primera persona como es realmente el proceso de diseño de un producto, de forma similar a como se realizó con el ejemplo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) con el diseño de ["Lolis"](https://github.com/Olasergiolas/DIU21), una app móvil destinada a la organización de viajes que tenía el objetivo de unificar todo lo que un viajero pudiera necesitar en una sola app.
+
+![logo lolis](./logo-lolis.png)
+
+ Durante el proyecto de prácticas se han realizado multitud de tareas, de las cuales yo destacaría:
 
 - UX Desk Research:
   - Análisis competitivo y Revisión de usabilidad: Permite dar a conocer las fortalezas y debilidades de tus competidores para así poder inspirarte en lo que estos han hecho bien y evitar lo que han hecho mal a la hora de diseñar tu producto. Este conocimiento resulta clave para el éxito de lo que estemos diseñando, ya que no tendría sentido lanzar un producto que venga a satisfacer unas necesidades ya satisfechas por otro producto ya existente o que directamente sea peor en comparación con sus competidores.
@@ -145,7 +149,23 @@ A la hora de elegir una nueva paleta de colores, se han tenido en cuenta los col
 
 ##### Logotipo
 
-Se ha diseñado un nuevo logotipo que busca dar una imagen más moderna y actual que el que está siendo utilizado actualmente. Para generarlo se ha utilizado la herramienta de generación de logos de [Looka](https://looka.com).
+Se ha diseñado un nuevo logotipo que busca dar una imagen más moderna y actual que el que está siendo utilizado actualmente, manteniendo la esencia y la combinación de colores. Para generarlo se ha utilizado la herramienta de generación de logos de [Looka](https://looka.com).
 
 ![nuevo logo](./logo.png)
+
+### Conclusiones finales
+
+#### Rediseño Yuzin
+
+En general, considero que el último rediseño que se realizó a la web de Yuzin era muy necesitado ya que su versión clásica presentaba un aspecto demasiado anticuado en comparación con las tendencias actuales de la web. Aunque lo considero adecuado para una web de este estilo, hemos podido observar a lo largo de este trabajo que no ha sido aplicado correctamente, mostrando carencias bastante significativas que merman la experiencia de usuario. Es por ello que se han realizado mejoras para seguir una organización del contenido más predecible por el usuario, se han propuesto nuevos contrastes y colores para mejorar la accesibilidad y usabilidad en general, se han identificado errores considerables, etc.
+
+Todas estas mejoras, harán de la web de Yuzin un sitio mucho más adaptado a la web moderna, funcional y que en general, ofrecerá una mejor experiencia de uso al usuario.
+
+#### Trabajo final
+
+Aunque considero que podría haber realizado un trabajo más completo con algo más de tiempo, valoro que he sido capaz de plasmar los conocimientos adquiridos durante la asignatura en este trabajo final, para realizar, en mi opinión un rediseño que mejora considerablemente el diseño actual de la web evaluada. Con respecto a la asignatura en general, valoro la experiencia positivamente ya que tengo la certeza de que aplicaré en el futuro muchos de los conocimientos aquí adquiridos.
+
+Como posible mejora propondría llevar algo más de control sobre los grupos aleatorios que se realizaban para las actividades de teoría en clase, ya que el hecho de que muchos alumnos no quisieran participar en estos hacía de la experiencia un tanto "Hit-or-miss" dependiendo de si te tocaban compañeros participativos o no.
+
+
 
