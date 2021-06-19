@@ -110,3 +110,17 @@ Antes de comenzar a diseñar los wireframe para la web, comenzaremos realizando 
 
 ![sitemap nuevo](./sitemap.png)
 
+#### Wireframe
+
+Con el objetivo de conocer como la información va a ser organizada se han diseñado una serie de wireframes que indican la distribución que la web presentará. Además, se ha realizado también un wireframe de la web visitada desde un smartphone para mostrar la organización de contenidos desde un dispositivo móvil.
+
+Estos wireframe han sido realizados con Adobe Xd y extensiones como Quick Mockup e Icons 4 Design.
+
+![home wireframe](./home.png)
+
+![home wireframe](./evento.png)
+
+![home wireframe](./mobile.png)
+
+#### Guidelines de diseño
+
