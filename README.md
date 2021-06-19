@@ -153,6 +153,22 @@ Se ha diseñado un nuevo logotipo que busca dar una imagen más moderna y actual
 
 ![nuevo logo](./logo.png)
 
+### Accesibilidad
+
+Entrando un poco más en profundidad en la accesibilidad, evaluaremos ciertos aspectos como el cumplimiento de las pautas WCAG o el comportamiento de la web ante distintas resoluciones o ausencia de tecnologías como JS o CSS con el objetivo de asegurar que la web pueda ser utilizada por el mayor número de usuarios posible independientemente de las discapacidades que pueda presentar o del dispositivo con el que acceda.
+
+Empezando por las pautas WCAG, utilizaremos la web de [WAVE](https://wave.webaim.org/) para observar posibles problemas de accesibilidad. Esta herramienta reporta una serie de problemas graves como:
+
+- **Tres imágenes que carecen de texto alternativo**: El logo de la web junto al precio de los eventos destacados carece de texto alternativo.
+- **Botón de búsqueda por texto vacío**: El botón de búsqueda por texto carece de un valor, por lo que lectores de pantalla por voz no serían capaces de identificarlo.
+- **Diecinueve muestras de bajo contraste**: Como habíamos mencionado anteriormente, la web presenta muchos casos de bajo contraste con ejemplos como el uso de texto amarillo sobre fondo blanco, texto blanco sobre fondo azul claro o texto gris sobre fondo blanco, los cuales sería necesario mejorar como se ha propuesto en el apartado de guidelines de diseño con la paleta de colores utilizada.
+
+La web de Yuzin sigue siendo relativamente legible tras deshabilitar CSS y JavaScript, aunque lo primero provoca que la página principal no pare de subir y bajar todo su contenido debido al error comentado previamente con el texto presente en el banner principal.
+
+Cabe destacar que la web no se comporta correctamente ante ciertos tamaños de ventana, superponiendo en algunas ocasiones párrafos de texto sobre imágenes y dejando imágenes descolocadas. Hacer uso de un nivel de zoom elevado presenta las mismas consecuencias.
+
+Por último, mencionar que la web no dispone de información sobre la accesibilidad de ningún tipo, de forma que el usuario desconoce qué medidas para la accesibilidad se han tenido en cuenta, al igual que métodos de navegación alternativos, etc.
+
 ### Conclusiones finales
 
 #### Rediseño Yuzin
